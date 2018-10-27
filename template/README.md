@@ -14,7 +14,7 @@
 1. This is Ordered list item - 2
 
 ### This is Image
-![](/screenshots/Service1.png)
+![](https://avatars1.githubusercontent.com/u/9480389?v=4)
 
 ### Note:
 If you find any error or want to give any suggestion, create an issue or write to sivacheerla@live.com
