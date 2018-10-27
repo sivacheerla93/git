@@ -17,7 +17,7 @@
 ![](https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 ### This is an image from local source
-![](/googlelogo_color_272x92dp.png)
+![](googlelogo_color_272x92dp.png)
 
 ### Note:
 If you find any error or want to give any suggestion, create an issue or write to sivacheerla@live.com
