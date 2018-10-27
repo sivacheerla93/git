@@ -1,4 +1,4 @@
-# Heading H1
+# For Heading H1, use #
 ## Heading H2
 ### Heading H3
 #### Heading H4
